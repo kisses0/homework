@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\Project5\Project5\Source.cpp(6,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\source\repos\Project5\Project5\Source.cpp(7,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\source\repos\Project5\Project5\Source.cpp(8,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\source\repos\Project5\Project5\Source.cpp(32,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
